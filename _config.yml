@@ -1,9 +1,7 @@
 # Site settings
 title: Ghostlit Studios
 email: ghostlit@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-"Game development team Ghostlit studios brings you exciting new ways to
-waste your time poking or breathing on your phone!"
+description: "Game development team Ghostlit studios brings you exciting new ways to waste your time poking or breathing on your phone!"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: ghostlit
