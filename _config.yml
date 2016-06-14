@@ -1,7 +1,7 @@
 # Site settings
 title: Ghostlit Studios
 email: ghostlit@domain.com
-description: "Game development team Ghostlit studios brings you exciting new ways to waste your time poking or breathing on your phone!"
+description: "Up and coming indie game development team Ghostlit studios brings you exciting new reasons to poke and breathing on your phone!"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: ghostlit
